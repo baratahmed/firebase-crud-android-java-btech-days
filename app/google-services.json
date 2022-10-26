@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944504018122",
+    "firebase_url": "https://fir-insandouts-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-insandouts",
+    "storage_bucket": "fir-insandouts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944504018122:android:9d1ba0554195d3961bd033",
+        "android_client_info": {
+          "package_name": "com.cherisheddream.firebaseinsandouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944504018122-74au429cj9qhknd61u3hhnusq6l31cnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBy5XA1bjfL_94oupg_EGYeDR15-YIUQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944504018122-74au429cj9qhknd61u3hhnusq6l31cnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
